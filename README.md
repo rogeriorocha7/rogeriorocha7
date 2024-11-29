@@ -4,7 +4,7 @@
 
 ```python
 def main():
-    nom = "Edenwood Laurent"
+    nom = "Rogério Rocha"
     etudes = "Étudiant en développement Front-End"
     localisation = "Toulouse, France"
 
