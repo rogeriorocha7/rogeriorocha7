@@ -2,18 +2,22 @@
 
 <img align="right" width="320" height="220" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd2N2tzZzUya2RvZDMxbjRhNjQyN25wMnFtd3c4cnM3MWJhdnNpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 
-```python
-def main():
-    nom = "Rogério Rocha"
-    etudes = "Étudiant en développement Front-End"
-    localisation = "Toulouse, France"
+```C
+#include <stdio.h>
 
-    print(f"Nom: {nom}")
-    print(f"Études: {etudes}")
-    print(f"Localisation: {localisation}")
+int main() {
 
-if __name__ == "__main__":
-    main()
+    char name[] = "Rogério Rocha";
+    char studies[] = "Computer Science Student"; 
+    char location[] = "Toulouse, France";
+
+    printf("Name: %s\n", name);
+    printf("Studies: %s\n", studies);
+    printf("Location: %s\n", location);
+
+    return 0;
+}
+
 ```
 <br>
 <br>
