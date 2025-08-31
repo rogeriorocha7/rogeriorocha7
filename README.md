@@ -5,18 +5,24 @@
 ```C
 #include <stdio.h>
 
-int main() {
+int main(void) {
+    // User information
+    const char *name = "Rogério Rocha";
+    const char *studies = "Computer Science & Data Science Student"; 
+    const char *location = "Toulouse, France";
+    const char *focus = "Cloud & DevOps Certifications in progress (AWS, RHCSA, CKA)";
 
-    char name[] = "Rogério Rocha";
-    char studies[] = "Computer Science Student"; 
-    char location[] = "Toulouse, France";
-
-    printf("Name: %s\n", name);
-    printf("Studies: %s\n", studies);
-    printf("Location: %s\n", location);
+    // Displaying information in an organized way
+    printf("====================================\n");
+    printf("👤 Name:       %s\n", name);
+    printf("🎓 Studies:    %s\n", studies);
+    printf("📍 Location:   %s\n", location);
+    printf("☁️ Focus:      %s\n", focus);
+    printf("====================================\n");
 
     return 0;
 }
+
 
 ```
 <br>
