@@ -10,18 +10,21 @@ int main(void) {
     const char *name = "Rogério Rocha";
     const char *studies = "Computer Science & Data Science Student"; 
     const char *location = "Toulouse, France";
-    const char *focus = "Cloud & DevOps Certifications in progress (AWS, RHCSA, CKA)";
+    const char *focus = "Cloud & DevOps (AWS, RHCSA, CKA)";
+    const char *role = "Pentester & Robotics Enthusiast (Arduino)";
 
     // Displaying information in an organized way
-    printf("====================================\n");
+    printf("==============================================\n");
     printf("👤 Name:       %s\n", name);
     printf("🎓 Studies:    %s\n", studies);
     printf("📍 Location:   %s\n", location);
     printf("☁️ Focus:      %s\n", focus);
-    printf("====================================\n");
+    printf("🔒 Role:       %s\n", role);
+    printf("==============================================\n");
 
     return 0;
 }
+
 
 
 ```
