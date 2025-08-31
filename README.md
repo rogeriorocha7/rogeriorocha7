@@ -1,4 +1,4 @@
-## Hey! Welcome to my GitHub, friends! 🤜🤛
+## Yo! Welcome to my coding playground 🚀
 
 <img align="right" width="320" height="220" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDd2N2tzZzUya2RvZDMxbjRhNjQyN25wMnFtd3c4cnM3MWJhdnNpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" />
 
